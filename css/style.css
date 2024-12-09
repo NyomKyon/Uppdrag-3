@@ -13,9 +13,8 @@ body {
 h1, h2 {
     text-align: center;
 }
-
-footer {
-    width: 100%;
+h2{
+    color: #4da173;
 }
 
 .bottom-footer{
@@ -38,7 +37,7 @@ a:visited {
 
 .content-container {
     padding: 2rem;
-    width: 60%;
+    width: 40%;
     margin: auto;
     background-color: #1f1f1f;
     margin-top: 1rem;
@@ -46,5 +45,10 @@ a:visited {
 }
 .center {
     padding: 1rem;
+    margin: auto;
+}
+img {
+    padding-left: 1rem;
+    padding-right: 1rem;
     margin: auto;
 }
